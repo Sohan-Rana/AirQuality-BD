@@ -95,9 +95,7 @@ airquality-bd/
 - [ ] Map view of stations
 - [ ] Deploy dashboard on Streamlit Community Cloud
 
-## বাংলায় সংক্ষেপে
 
-AirQuality BD বাংলাদেশের বায়ুদূষণ (PM2.5, PM10, AQI) নিয়ে একটি Python Data Science প্রজেক্ট। এতে ডেটা সংগ্রহ, পরিষ্কার করা, বিশ্লেষণ, graph, interactive dashboard এবং forecasting আছে। README-র graph-গুলো **বানানো (synthetic) ডেটা** দিয়ে তৈরি, তাই সেগুলো বাস্তব পরিমাপ নয়। বাস্তব ডেটার জন্য OpenAQ API key বা নিজের CSV ব্যবহার করুন।
 
 ## License
 
