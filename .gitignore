@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.env
+data/raw/*
+!data/raw/README.md
+data/processed/
